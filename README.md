@@ -1,4 +1,4 @@
-# ECG RAG Test (Internal)
+# ECG RAG Test
 
 This repository contains a simple **RAG** pipeline for **ECG interpretation knowledge**.
 
