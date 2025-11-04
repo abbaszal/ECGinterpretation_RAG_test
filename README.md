@@ -6,6 +6,11 @@ This repository contains a simple **RAG** pipeline for **ECG interpretation know
 ##  Pipeline
 1. **Knowledge Base**
    - Source: `ECG_Reference_Level_Knowledge_Base.csv`
+ ### ECG Reference Knowledge Base
+
+This dataset was derived from the document:
+**"Methodological ECG Interpretation" by Dr. Araz Rawshani (2017)**  
+Source: [https://ecgwaves.com](https://ecgwaves.com)
    - Each record contains a piece of expert ECG reference content.
 
 2. **Embedding & Indexing**
