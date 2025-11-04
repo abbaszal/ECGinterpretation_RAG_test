@@ -1,0 +1,140 @@
+Section,Content
+1. Rhythm,"Sinus rhythm is defined by:
+1. Heart rate 50–100 bpm
+2. P-wave precedes every QRS complex
+3. P-wave positive in lead II
+4. Constant PR interval
+
+Bradycardia (HR < 50 bpm):
+- Sinus bradycardia
+- Sinoatrial block
+- Sinoatrial arrest/inhibition
+- Second-degree AV block
+- Third-degree AV block
+- Sick sinus syndrome (if symptomatic)
+- Escape rhythms may occur
+
+Tachycardia (HR > 100 bpm)
+Narrow QRS (<0.12 s):
+- Sinus tachycardia
+- Atrial fibrillation
+- Atrial flutter
+- Atrial tachycardia
+- AVNRT (AV nodal re-entry)
+- AVRT (WPW syndrome)
+- Multifocal atrial tachycardia
+
+Wide QRS (≥0.12 s):
+- Ventricular tachycardia (most common)
+- Supraventricular tachycardia with bundle branch block
+- Pre-excitation (WPW)
+- Paced rhythm"
+2. P-wave and PR Interval,"Normal P-wave:
+- Positive in leads II, III, aVF
+- Duration < 0.12 s
+- Amplitude ≤ 2.5 mm
+- May be biphasic in V1 (small terminal negative deflection <1 mm)
+
+Abnormalities:
+- P mitrale: wide, notched P-wave → left atrial enlargement
+- P pulmonale: tall, peaked P-wave → right atrial enlargement
+- Absent or inverted P-wave: junctional rhythm or retrograde conduction
+
+PR interval normal: 0.12–0.22 s
+
+PR abnormalities:
+- PR > 0.22 s: 1st-degree AV block
+- Progressively longer PR → dropped beat: Mobitz I (Wenckebach)
+- Fixed PR, dropped beat: Mobitz II
+- No relation between P and QRS: 3rd-degree (complete) AV block
+- PR < 0.12 s: pre-excitation (WPW)"
+3. QRS Complex,"Normal:
+- Duration < 0.12 s (typically 0.07–0.10 s)
+- Normal voltage: R > 5 mm (limb), R > 10 mm (precordial)
+- Normal axis: –30° to +90°
+
+Abnormal durations:
+- Wide QRS (≥0.12 s): bundle branch block (LBBB, RBBB), VT, hyperkalemia, drugs (TCA, Class I antiarrhythmics), pacing
+- Low voltage: <5 mm limb, <10 mm chest leads — causes: COPD, effusion, obesity, hypothyroidism, pericarditis, amyloidosis
+- High voltage: LVH, RVH, young athletic individuals
+- LVH: S(V1 or V2) + R(V5 or V6) > 35 mm
+
+Pathological Q waves: ≥0.03 s and/or ≥25% R amplitude in ≥2 contiguous leads → myocardial infarction
+
+Axis deviation:
+- Right axis deviation (> +90°): RVH, PE, COPD, LPFB, lateral MI
+- Left axis deviation (< –30°): LAFB, LVH, inferior MI, LBBB
+- Extreme axis deviation: VT, misplacement, dextrocardia"
+4. ST Segment,"Normal: flat and isoelectric; measured at J point.
+
+ST Elevation:
+- Physiologic: early repolarization, male/female pattern (V2–V4, concave)
+- Pathologic: STEMI, Prinzmetal angina, pericarditis, Brugada, LV aneurysm, Takotsubo, hyperkalemia, LVH, LBBB
+
+ST Depression:
+- Pathologic: ischemia, NSTEMI, reciprocal change, digoxin effect
+- Physiologic/Other: LVH, RVH, tachycardia, hyperventilation, hypokalemia, BBB
+
+Measurement criteria for STEMI:
+- Men ≥40: ≥2 mm (V2–V3), ≥1 mm (other leads)
+- Men <40: ≥2.5 mm (V2–V3), ≥1 mm (other leads)
+- Women: ≥1.5 mm (V2–V3), ≥1 mm (other leads)"
+5. T-wave,"Normal:
+- Concordant with QRS; positive in most leads (except aVR, sometimes III, V1)
+- Highest amplitude in lead II and V2–V3
+
+Abnormalities:
+- Inversion: ischemia, post-ischemic (Wellens’), PE, CNS event, pericarditis, cardiomyopathy
+- Tall (hyperacute): early STEMI, hyperkalemia, LVH, LBBB
+- Flattened: ischemia, electrolyte imbalance
+- Persistent juvenile pattern: inversion in V1–V3 in young adults
+- Global inversion: rare, idiopathic or CNS-related"
+6. QTc Interval and U-wave,"QTc (Bazett’s formula):
+- Normal: ≤0.45 s (men), ≤0.46 s (women)
+- Short: ≤0.32 s
+- Long: >0.46 s (women), >0.45 s (men)
+
+QT prolongation causes:
+- Drugs: antiarrhythmics (amiodarone, sotalol), tricyclics, SSRIs, macrolides, quinolones, chloroquine, lithium
+- Electrolyte disturbances: hypokalemia, hypocalcemia, hypomagnesemia
+- Ischemia, cardiomyopathy, hypothyroidism, hypothermia
+- Congenital LQTS (genetic variants)
+
+QT shortening:
+- Hypercalcemia, digoxin, hyperkalemia
+
+U-wave:
+- Seen best in V3–V4, amplitude ≤25% of T-wave
+- Prominent: bradycardia, hypokalemia
+- Inverted U: ischemia, LVH"
+7. Comparison with Previous ECGs,"Always compare with prior tracings.
+New Q waves, ST/T changes, or QRS morphology changes often indicate acute or evolving pathology."
+8. Clinical Context,"Interpret ECG findings only in clinical context — e.g., ST elevation without chest pain may be benign early repolarization."
+9. Specialized Conditions and Combinations,"ST elevation + reciprocal depression → STEMI
+ST elevation + pericarditic concave shape + PR depression → Pericarditis
+ST depression + T inversion (V4–V6) → NSTEMI / ischemia
+Short PR + delta wave → WPW syndrome
+Wide QRS + left axis deviation → LBBB
+Wide QRS + right axis deviation → RBBB or RVH
+QT prolongation + torsades → Drug or electrolyte induced
+Bradycardia + QT prolongation → Risk of torsades
+Tall P in II + right axis deviation → Right atrial hypertrophy
+Broad P + left axis deviation → Left atrial enlargement
+Dominant R in V1 + right axis deviation → RVH or posterior MI
+Negative T + prolonged QT → Ischemia, CNS event
+Low voltage + electrical alternans → Pericardial effusion
+ST elevation V1–V3 with RBBB-like pattern → Brugada syndrome
+Diffuse T inversion + QT prolongation → Myocarditis, Takotsubo
+Sinus tachycardia + S1Q3T3 pattern → Pulmonary embolism"
+10. Axis Determination Rules,"Normal axis: net positive QRS in I and II
+Right axis deviation: negative QRS in I, positive in II
+Left axis deviation: positive QRS in I, negative in II
+Extreme axis: negative QRS in both I and II"
+11. Hypertrophy Patterns,"LVH: S(V1) + R(V5 or V6) > 35 mm; left axis; ST depression (strain) in lateral leads
+RVH: R(V1) > 7 mm, right axis deviation, dominant R in V1
+LAE: P mitrale
+RAE: P pulmonale"
+12. Conduction Abnormalities,"RBBB: QRS ≥0.12 s, rsR’ in V1, wide S in I, V6
+LBBB: QRS ≥0.12 s, broad/notched R in I, V6, absent q in I, V6
+LAFB: Left axis deviation, qR in aVL
+LPFB: Right axis deviation, rS in I/aVL, qR in III/aVF"
