@@ -1,0 +1,23 @@
+# ECG RAG Test (Internal)
+
+This repository contains a simple **RAG** pipeline for **ECG interpretation knowledge**.
+
+
+##  Pipeline
+1. **Knowledge Base**
+   - Source: `ECG_Reference_Level_Knowledge_Base.csv`
+   - Each record contains a piece of expert ECG reference content.
+
+2. **Embedding & Indexing**
+   - Model: `sentence-transformers/all-MiniLM-L6-v2`
+   - Vector index: `FAISS`
+
+3. **Generation**
+   - Model: `google/flan-t5-base`
+   - The query + retrieved context are combined into a prompt.
+   - The model generates an answer grounded in the retrieved knowledge.
+
+## Example
+```python
+question = "What are the ECG findings that indicate ischemia?"
+print(rag_answer(question))
