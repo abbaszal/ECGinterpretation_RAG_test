@@ -1,6 +1,6 @@
 # ECG RAG Test
 
-This repository contains a simple **RAG** pipeline for **ECG interpretation knowledge**.
+This repository contains a simple **RAG** pipeline for **ECG interpretation knowledge**
 
 
 ##  Pipeline
